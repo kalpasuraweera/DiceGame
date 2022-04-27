@@ -1,0 +1,20 @@
+body{
+  background-color: #180A0A;
+  color: #F582A7;
+  text-align: center;
+  font-family: 'Indie Flower', cursive;
+}
+.player{
+  display: inline-block;
+  width: 25%;
+  margin: 15px 30px;
+}
+.player img{
+  width: 15rem;
+}
+#headtext{
+  font-size: 5rem;
+}
+#winText{
+  font-weight: bolder;
+}
